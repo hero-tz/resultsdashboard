@@ -633,14 +633,14 @@ img {
 
 /* About Us Hero */
 .hero-about-us {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/slider/open.jpg') center center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCDjCafpYI5Hk1z2pPxlAt7fqVqJwWlvCSRTYQCf5xDORiCShwCHkfCmwhQeRw7ToYUqxQkGGpKlYq_GR96Gq9NSdqljXjiL_WeywXO5c0_tLOJPggDoE7iqKlBQz44lX6tx7qkyDgqP4yLCrfaNRYImQWDMY7q_5l3_xoMqb7t-4p5s964vzLIIaJuHF/s320/background.jpg') center center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 8rem 0;
 }
 
 .hero-about-us2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/slider/open.jpg') center center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCDjCafpYI5Hk1z2pPxlAt7fqVqJwWlvCSRTYQCf5xDORiCShwCHkfCmwhQeRw7ToYUqxQkGGpKlYq_GR96Gq9NSdqljXjiL_WeywXO5c0_tLOJPggDoE7iqKlBQz44lX6tx7qkyDgqP4yLCrfaNRYImQWDMY7q_5l3_xoMqb7t-4p5s964vzLIIaJuHF/s320/background.jpg') center center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 8rem 0;
